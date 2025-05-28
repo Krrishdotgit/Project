@@ -1,3 +1,8 @@
+
+
+code of menu
+
+
 print("\t\tWelcome to our restaurant")
 print("1. PIZZA : ₹ 99 ")
 print("2. BURGER : ₹ 39 ")
