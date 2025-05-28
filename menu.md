@@ -1,6 +1,6 @@
 
 
-code of menu
+#code of menu
 
 
 print("\t\tWelcome to our restaurant")
