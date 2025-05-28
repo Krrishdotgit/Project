@@ -12,7 +12,7 @@ print("5. OREO SHAKE : ₹ 69 ")
 x=0
 n=int(input("how many product you want:"))
 for i in range(1,n+1):
-    z=int(input("Enter Sr no."))
+    z=int(input("Enter Sr no:"))
     if z==1:
         x+=99
     elif z==2:
